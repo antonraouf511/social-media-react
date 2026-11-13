@@ -1,0 +1,22 @@
+{
+  "env": {
+    "ANTHROPIC_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_API_BASE_URL": "http://localhost:20128",
+    "CLAUDE_AGENT_API_BASE_URL": "http://localhost:20128",
+    "ANTHROPIC_AUTH_TOKEN": "sk-7a8cea15346ba1bf-b88c1a-72868e2c",
+    "ANTHROPIC_MODEL": "my-combo",
+    "ANTHROPIC_DEFAULT_OPUS_MODEL": "my-combo",
+    "ANTHROPIC_DEFAULT_SONNET_MODEL": "my-combo",
+    "ANTHROPIC_DEFAULT_HAIKU_MODEL": "my-combo",
+    "ANTHROPIC_DEFAULT_FABLE_MODEL": "my-combo",
+    "ANTHROPIC_IDENTITY_TOKEN_FILE": "",
+    "ANTHROPIC_FEDERATION_RULE_ID": "",
+    "ANTHROPIC_ORGANIZATION_ID": ""
+  },
+  "model": "my-combo",
+  "permissions": {
+    "allow": [
+      "mcp__figma__get_figma_data"
+    ]
+  }
+}
